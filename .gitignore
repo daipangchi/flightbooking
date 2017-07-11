@@ -1,0 +1,15 @@
+/bootstrap/compiled.php
+/bootstrap/environment.php
+/vendor
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+/.idea
+.editorconfig
+/public/assets/images/agency
+/public/assets/images/airlines
+/public/images
+sftp-config.json
